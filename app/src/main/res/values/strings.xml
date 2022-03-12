@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Payment</string>
+    <item name="name" type="id" />
+</resources>
